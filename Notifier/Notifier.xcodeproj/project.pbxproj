@@ -7,43 +7,43 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		06B40B0224CB3D6500A12DBD /* NFV - Alerts.app in CopyFiles */ = {isa = PBXBuildFile; fileRef = 06B40AFA24CB3D1C00A12DBD /* NFV - Alerts.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		06B40B0324CB3D7500A12DBD /* NFV - Notifications.app in CopyFiles */ = {isa = PBXBuildFile; fileRef = 06B40AFD24CB3D1C00A12DBD /* NFV - Notifications.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		7C3ECE5023E057FE008E3D9D /* SPMUtility in Frameworks */ = {isa = PBXBuildFile; productRef = 7C3ECE4F23E057FE008E3D9D /* SPMUtility */; };
 		7C6D157C2270BA2F0092D34E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C6D157B2270BA2F0092D34E /* AppDelegate.swift */; };
 		7C6D15812270BA300092D34E /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7C6D157F2270BA300092D34E /* MainMenu.xib */; };
 		7C720952227888E10033B2E2 /* Functions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C720951227888E10033B2E2 /* Functions.swift */; };
 		7C8F69EE2278A6EF002D317B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7CBF17F62278A2DF0043E853 /* Assets.xcassets */; };
-		B5B4977224B3837000CF9409 /* Notifier - Alerts.app in CopyFiles */ = {isa = PBXBuildFile; fileRef = B5B4976E24B3835E00CF9409 /* Notifier - Alerts.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
-		B5B4977324B3837700CF9409 /* Notifier - Notifications.app in CopyFiles */ = {isa = PBXBuildFile; fileRef = B5B4977124B3835E00CF9409 /* Notifier - Notifications.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		B5B4976D24B3835E00CF9409 /* PBXContainerItemProxy */ = {
+		06B40AF924CB3D1C00A12DBD /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 7CD4280223BFA4D500F9D5B9 /* Notifier - Alerts.xcodeproj */;
+			containerPortal = 7CD4280223BFA4D500F9D5B9 /* NFV - Alerts.xcodeproj */;
 			proxyType = 2;
 			remoteGlobalIDString = 7C8AB5DC22724FD6008E3160;
-			remoteInfo = "Notifier - Alerts";
+			remoteInfo = "NFV - Alerts";
 		};
-		B5B4977024B3835E00CF9409 /* PBXContainerItemProxy */ = {
+		06B40AFC24CB3D1C00A12DBD /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 7C9C700A23C14A9600A1A363 /* Notifier - Notifications.xcodeproj */;
+			containerPortal = 7C9C700A23C14A9600A1A363 /* NFV - Notifications.xcodeproj */;
 			proxyType = 2;
 			remoteGlobalIDString = 7C8AB5DC22724FD6008E3160;
-			remoteInfo = "Notifier - Notifications";
+			remoteInfo = "NFV - Notifications";
 		};
-		B5FC207324B4ABF900CD078A /* PBXContainerItemProxy */ = {
+		06B40AFE24CB3D3000A12DBD /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 7C9C700A23C14A9600A1A363 /* Notifier - Notifications.xcodeproj */;
+			containerPortal = 7C9C700A23C14A9600A1A363 /* NFV - Notifications.xcodeproj */;
 			proxyType = 1;
 			remoteGlobalIDString = 7C8AB5DB22724FD6008E3160;
-			remoteInfo = "Notifier - Notifications";
+			remoteInfo = "NFV - Notifications";
 		};
-		B5FC207524B4ABF900CD078A /* PBXContainerItemProxy */ = {
+		06B40B0024CB3D3500A12DBD /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 7CD4280223BFA4D500F9D5B9 /* Notifier - Alerts.xcodeproj */;
+			containerPortal = 7CD4280223BFA4D500F9D5B9 /* NFV - Alerts.xcodeproj */;
 			proxyType = 1;
 			remoteGlobalIDString = 7C8AB5DB22724FD6008E3160;
-			remoteInfo = "Notifier - Alerts";
+			remoteInfo = "NFV - Alerts";
 		};
 /* End PBXContainerItemProxy section */
 
@@ -54,7 +54,7 @@
 			dstPath = banner;
 			dstSubfolderSpec = 7;
 			files = (
-				B5B4977324B3837700CF9409 /* Notifier - Notifications.app in CopyFiles */,
+				06B40B0324CB3D7500A12DBD /* NFV - Notifications.app in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -64,7 +64,7 @@
 			dstPath = alert;
 			dstSubfolderSpec = 7;
 			files = (
-				B5B4977224B3837000CF9409 /* Notifier - Alerts.app in CopyFiles */,
+				06B40B0224CB3D6500A12DBD /* NFV - Alerts.app in CopyFiles */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -76,9 +76,9 @@
 		7C6D15802270BA300092D34E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		7C6D15822270BA300092D34E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7C720951227888E10033B2E2 /* Functions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Functions.swift; sourceTree = "<group>"; };
-		7C9C700A23C14A9600A1A363 /* Notifier - Notifications.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = "Notifier - Notifications.xcodeproj"; sourceTree = "<group>"; };
+		7C9C700A23C14A9600A1A363 /* NFV - Notifications.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = "NFV - Notifications.xcodeproj"; sourceTree = "<group>"; };
 		7CBF17F62278A2DF0043E853 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = notifier/Assets.xcassets; sourceTree = SOURCE_ROOT; };
-		7CD4280223BFA4D500F9D5B9 /* Notifier - Alerts.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = "Notifier - Alerts.xcodeproj"; sourceTree = "<group>"; };
+		7CD4280223BFA4D500F9D5B9 /* NFV - Alerts.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = "NFV - Alerts.xcodeproj"; sourceTree = "<group>"; };
 		B506001C24B3833300427FA1 /* Notifier - Alerts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; path = "Notifier - Alerts.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B506001D24B3833300427FA1 /* Notifier - Notifications.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; path = "Notifier - Notifications.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5735E3E24B39FC100813D66 /* NotifierRelease.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = NotifierRelease.entitlements; sourceTree = "<group>"; };
@@ -96,6 +96,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		06B40AF424CB3D1A00A12DBD /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				06B40AFD24CB3D1C00A12DBD /* NFV - Notifications.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		06B40AF624CB3D1A00A12DBD /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				06B40AFA24CB3D1C00A12DBD /* NFV - Alerts.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
 		7C6D156F2270BA2F0092D34E = {
 			isa = PBXGroup;
 			children = (
@@ -130,8 +146,8 @@
 		7CD427F223BFA47300F9D5B9 /* apps */ = {
 			isa = PBXGroup;
 			children = (
-				7C9C700A23C14A9600A1A363 /* Notifier - Notifications.xcodeproj */,
-				7CD4280223BFA4D500F9D5B9 /* Notifier - Alerts.xcodeproj */,
+				7C9C700A23C14A9600A1A363 /* NFV - Notifications.xcodeproj */,
+				7CD4280223BFA4D500F9D5B9 /* NFV - Alerts.xcodeproj */,
 			);
 			name = apps;
 			path = ../apps;
@@ -144,22 +160,6 @@
 				B506001D24B3833300427FA1 /* Notifier - Notifications.app */,
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		B5B4976824B3835B00CF9409 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				B5B4977124B3835E00CF9409 /* Notifier - Notifications.app */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		B5B4976A24B3835B00CF9409 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				B5B4976E24B3835E00CF9409 /* Notifier - Alerts.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -179,8 +179,8 @@
 			buildRules = (
 			);
 			dependencies = (
-				B5FC207424B4ABF900CD078A /* PBXTargetDependency */,
-				B5FC207624B4ABF900CD078A /* PBXTargetDependency */,
+				06B40B0124CB3D3500A12DBD /* PBXTargetDependency */,
+				06B40AFF24CB3D3000A12DBD /* PBXTargetDependency */,
 			);
 			name = Notifier;
 			packageProductDependencies = (
@@ -198,7 +198,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1010;
 				LastUpgradeCheck = 1200;
-				ORGANIZATIONNAME = "dataJAR Ltd";
+				ORGANIZATIONNAME = NFV;
 				TargetAttributes = {
 					7C6D15772270BA2F0092D34E = {
 						CreatedOnToolsVersion = 10.1;
@@ -230,12 +230,12 @@
 			projectDirPath = "";
 			projectReferences = (
 				{
-					ProductGroup = B5B4976A24B3835B00CF9409 /* Products */;
-					ProjectRef = 7CD4280223BFA4D500F9D5B9 /* Notifier - Alerts.xcodeproj */;
+					ProductGroup = 06B40AF624CB3D1A00A12DBD /* Products */;
+					ProjectRef = 7CD4280223BFA4D500F9D5B9 /* NFV - Alerts.xcodeproj */;
 				},
 				{
-					ProductGroup = B5B4976824B3835B00CF9409 /* Products */;
-					ProjectRef = 7C9C700A23C14A9600A1A363 /* Notifier - Notifications.xcodeproj */;
+					ProductGroup = 06B40AF424CB3D1A00A12DBD /* Products */;
+					ProjectRef = 7C9C700A23C14A9600A1A363 /* NFV - Notifications.xcodeproj */;
 				},
 			);
 			projectRoot = "";
@@ -246,18 +246,18 @@
 /* End PBXProject section */
 
 /* Begin PBXReferenceProxy section */
-		B5B4976E24B3835E00CF9409 /* Notifier - Alerts.app */ = {
+		06B40AFA24CB3D1C00A12DBD /* NFV - Alerts.app */ = {
 			isa = PBXReferenceProxy;
 			fileType = wrapper.application;
-			path = "Notifier - Alerts.app";
-			remoteRef = B5B4976D24B3835E00CF9409 /* PBXContainerItemProxy */;
+			path = "NFV - Alerts.app";
+			remoteRef = 06B40AF924CB3D1C00A12DBD /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
-		B5B4977124B3835E00CF9409 /* Notifier - Notifications.app */ = {
+		06B40AFD24CB3D1C00A12DBD /* NFV - Notifications.app */ = {
 			isa = PBXReferenceProxy;
 			fileType = wrapper.application;
-			path = "Notifier - Notifications.app";
-			remoteRef = B5B4977024B3835E00CF9409 /* PBXContainerItemProxy */;
+			path = "NFV - Notifications.app";
+			remoteRef = 06B40AFC24CB3D1C00A12DBD /* PBXContainerItemProxy */;
 			sourceTree = BUILT_PRODUCTS_DIR;
 		};
 /* End PBXReferenceProxy section */
@@ -307,15 +307,15 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		B5FC207424B4ABF900CD078A /* PBXTargetDependency */ = {
+		06B40AFF24CB3D3000A12DBD /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "Notifier - Notifications";
-			targetProxy = B5FC207324B4ABF900CD078A /* PBXContainerItemProxy */;
+			name = "NFV - Notifications";
+			targetProxy = 06B40AFE24CB3D3000A12DBD /* PBXContainerItemProxy */;
 		};
-		B5FC207624B4ABF900CD078A /* PBXTargetDependency */ = {
+		06B40B0124CB3D3500A12DBD /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "Notifier - Alerts";
-			targetProxy = B5FC207524B4ABF900CD078A /* PBXContainerItemProxy */;
+			name = "NFV - Alerts";
+			targetProxy = 06B40B0024CB3D3500A12DBD /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -453,10 +453,10 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "";
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_IDENTITY = "Developer ID Application";
+				CODE_SIGN_STYLE = Manual;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 22QC47VJ4Y;
 				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = Notifier/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -465,8 +465,9 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				MARKETING_VERSION = 2.2;
-				PRODUCT_BUNDLE_IDENTIFIER = uk.co.dataJAR.Notifier;
+				PRODUCT_BUNDLE_IDENTIFIER = com.nfv.Notifier;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_INCLUDE_PATHS = "";
 				SWIFT_VERSION = 5.0;
 			};
@@ -478,10 +479,10 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = Notifier/NotifierRelease.entitlements;
-				CODE_SIGN_IDENTITY = "Apple Development";
-				CODE_SIGN_STYLE = Automatic;
+				CODE_SIGN_IDENTITY = "Developer ID Application";
+				CODE_SIGN_STYLE = Manual;
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 82K2XFN8L6;
+				DEVELOPMENT_TEAM = 22QC47VJ4Y;
 				ENABLE_HARDENED_RUNTIME = NO;
 				INFOPLIST_FILE = Notifier/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -490,7 +491,7 @@
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
 				MARKETING_VERSION = 2.2;
-				PRODUCT_BUNDLE_IDENTIFIER = uk.co.dataJAR.Notifier;
+				PRODUCT_BUNDLE_IDENTIFIER = com.nfv.Notifier;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_INCLUDE_PATHS = "";

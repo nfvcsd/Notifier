@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>Resources/AppIcon.icns</key>
+		<data>
+		2pO9JZj4vOuo2hoCvWhB+QS5HC4=
+		</data>
+		<key>Resources/Assets.car</key>
+		<data>
+		KLdbiOzuYUsJhYVBkcpyf6IsTbk=
+		</data>
+		<key>Resources/Base.lproj/MainMenu.nib</key>
+		<data>
+		XZRlBEgGHkznDCG+Jfbb95Yp6J4=
+		</data>
+		<key>Resources/alert/NFV - Alerts.app/Contents/Frameworks/libswiftCore.dylib</key>
+		<data>
+		6fQTJ7/7bGWXUFJpdych5NMv/EU=
+		</data>
+		<key>Resources/alert/NFV - Alerts.app/Contents/Frameworks/libswiftCoreFoundation.dylib</key>
+		<data>
+		q+T7a1rjCkFDd49YxGFeCB+Uq2c=
+		</data>
+		<key>Resources/alert/NFV - Alerts.app/Contents/Frameworks/libswiftCoreGraphics.dylib</key>
+		<data>
+		q09MVeRFrsjG4fxUlyvZ+a7J8s4=
+		</data>
+		<key>Resources/alert/NFV - Alerts.app/Contents/Frameworks/libswiftDarwin.dylib</key>
+		<data>
+		CV+pCGuzvhNSZLf/nvRQSr7Fzmg=
+		</data>
+		<key>Resources/alert/NFV - Alerts.app/Contents/Frameworks/libswiftDispatch.dylib</key>
+		<data>
+		0rBBtyCLbZhcDHNKMOHtUGmn2+w=
+		</data>
+		<key>Resources/alert/NFV - Alerts.app/Contents/Frameworks/libswiftFoundation.dylib</key>
+		<data>
+		u0g5Ok4pxsKRdIQpquhg1tX52gE=
+		</data>
+		<key>Resources/alert/NFV - Alerts.app/Contents/Frameworks/libswiftIOKit.dylib</key>
+		<data>
+		hxxF/yWh8qhyGkXuzGD9XH+1yYk=
+		</data>
+		<key>Resources/alert/NFV - Alerts.app/Contents/Frameworks/libswiftObjectiveC.dylib</key>
+		<data>
+		g8U4s3n3dmReGkA9Tj15r2XXw7A=
+		</data>
+		<key>Resources/alert/NFV - Alerts.app/Contents/Info.plist</key>
+		<data>
+		CIPM9RerpERO1biotmBhg37mrV0=
+		</data>
+		<key>Resources/alert/NFV - Alerts.app/Contents/MacOS/NFV - Alerts</key>
+		<data>
+		WYOZWniIHy3xE2QlbcRTwyS/b14=
+		</data>
+		<key>Resources/alert/NFV - Alerts.app/Contents/PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>Resources/alert/NFV - Alerts.app/Contents/Resources/AppIcon.icns</key>
+		<data>
+		2pO9JZj4vOuo2hoCvWhB+QS5HC4=
+		</data>
+		<key>Resources/alert/NFV - Alerts.app/Contents/Resources/Assets.car</key>
+		<data>
+		5qUV4NAf4xQAl0+PpVTEfAOr8Wo=
+		</data>
+		<key>Resources/alert/NFV - Alerts.app/Contents/Resources/Base.lproj/MainMenu.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VhV0i8GJt4sHI5mcF4vY5Rb1K/I=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/alert/NFV - Alerts.app/Contents/_CodeSignature/CodeResources</key>
+		<data>
+		MqzTL2Qh/EP4rByYYeEVKrZH/8c=
+		</data>
+		<key>Resources/banner/NFV - Notifications.app/Contents/Frameworks/libswiftCore.dylib</key>
+		<data>
+		tHU1dBodkOFmf3P/YrD3hAwubhI=
+		</data>
+		<key>Resources/banner/NFV - Notifications.app/Contents/Frameworks/libswiftCoreFoundation.dylib</key>
+		<data>
+		UdVKh+G6Dq1SMBcHQDfsMwLZY9I=
+		</data>
+		<key>Resources/banner/NFV - Notifications.app/Contents/Frameworks/libswiftCoreGraphics.dylib</key>
+		<data>
+		SKt7o5BZB85zh7FWMUG+fqwxSJw=
+		</data>
+		<key>Resources/banner/NFV - Notifications.app/Contents/Frameworks/libswiftDarwin.dylib</key>
+		<data>
+		RFV5/2Rr/eu5N1O9Fey5DO5jtFU=
+		</data>
+		<key>Resources/banner/NFV - Notifications.app/Contents/Frameworks/libswiftDispatch.dylib</key>
+		<data>
+		GFergHBA6xxOIDwg4gli2Lr5v84=
+		</data>
+		<key>Resources/banner/NFV - Notifications.app/Contents/Frameworks/libswiftFoundation.dylib</key>
+		<data>
+		vdwXv4Kho8hGJ0nal1+WL8rHxG0=
+		</data>
+		<key>Resources/banner/NFV - Notifications.app/Contents/Frameworks/libswiftIOKit.dylib</key>
+		<data>
+		QEnouCf0ZN2Z+ASB3AcXTEJwnpk=
+		</data>
+		<key>Resources/banner/NFV - Notifications.app/Contents/Frameworks/libswiftObjectiveC.dylib</key>
+		<data>
+		j0rsgwcESK2i+Tb/nc2ojvuv7Bw=
+		</data>
+		<key>Resources/banner/NFV - Notifications.app/Contents/Info.plist</key>
+		<data>
+		dk+KSUWOLOtCR67zMWLEV920BH0=
+		</data>
+		<key>Resources/banner/NFV - Notifications.app/Contents/MacOS/NFV - Notifications</key>
+		<data>
+		/VrE+9dkW9dCJmMQLgQe29CX3RE=
+		</data>
+		<key>Resources/banner/NFV - Notifications.app/Contents/PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>Resources/banner/NFV - Notifications.app/Contents/Resources/AppIcon.icns</key>
+		<data>
+		2pO9JZj4vOuo2hoCvWhB+QS5HC4=
+		</data>
+		<key>Resources/banner/NFV - Notifications.app/Contents/Resources/Assets.car</key>
+		<data>
+		TkOhHJPPqJTgI8d2H6fqTMiKw+U=
+		</data>
+		<key>Resources/banner/NFV - Notifications.app/Contents/Resources/Base.lproj/MainMenu.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XqKmytOI9S8K41LJbdfQEm0PTzU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/banner/NFV - Notifications.app/Contents/_CodeSignature/CodeResources</key>
+		<data>
+		Lyw7i31kBy6Yk/+9p7Ou8S+C5Ks=
+		</data>
+	</dict>
+	<key>files2</key>
+	<dict>
+		<key>Frameworks/libswiftCore.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			wEkV2nR0i0svQXkN3V1xvAFJCc4=
+			</data>
+			<key>requirement</key>
+			<string>identifier "com.apple.dt.runtime.swiftCore" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "22QC47VJ4Y"</string>
+		</dict>
+		<key>Frameworks/libswiftCoreFoundation.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			dzU3/4JR3aOPSpFl1X5ksG9l/Sw=
+			</data>
+			<key>requirement</key>
+			<string>identifier "com.apple.dt.runtime.swiftCoreFoundation" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "22QC47VJ4Y"</string>
+		</dict>
+		<key>Frameworks/libswiftCoreGraphics.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			5EpTWZnoKtIew2DVD39c0EvwWa8=
+			</data>
+			<key>requirement</key>
+			<string>identifier "com.apple.dt.runtime.swiftCoreGraphics" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "22QC47VJ4Y"</string>
+		</dict>
+		<key>Frameworks/libswiftDarwin.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			XGalDZNl6plWfrAvNYobE+9nkzg=
+			</data>
+			<key>requirement</key>
+			<string>identifier "com.apple.dt.runtime.swiftDarwin" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "22QC47VJ4Y"</string>
+		</dict>
+		<key>Frameworks/libswiftDispatch.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			HKwehyuoNH+6oJSUT2eKrDGPmgE=
+			</data>
+			<key>requirement</key>
+			<string>identifier "com.apple.dt.runtime.swiftDispatch" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "22QC47VJ4Y"</string>
+		</dict>
+		<key>Frameworks/libswiftFoundation.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			PV/SJOTuUe358w87IPAWREahDFA=
+			</data>
+			<key>requirement</key>
+			<string>identifier "com.apple.dt.runtime.swiftFoundation" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "22QC47VJ4Y"</string>
+		</dict>
+		<key>Frameworks/libswiftIOKit.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			Lg5WJfICypwp57qoPq0cG6ybK1o=
+			</data>
+			<key>requirement</key>
+			<string>identifier "com.apple.dt.runtime.swiftIOKit" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "22QC47VJ4Y"</string>
+		</dict>
+		<key>Frameworks/libswiftObjectiveC.dylib</key>
+		<dict>
+			<key>cdhash</key>
+			<data>
+			uv/sahLY71Oj17RIMaJvCVVT36A=
+			</data>
+			<key>requirement</key>
+			<string>identifier "com.apple.dt.runtime.swiftObjectiveC" and anchor apple generic and certificate 1[field.1.2.840.113635.100.6.2.6] /* exists */ and certificate leaf[field.1.2.840.113635.100.6.1.13] /* exists */ and certificate leaf[subject.OU] = "22QC47VJ4Y"</string>
+		</dict>
+		<key>Resources/AppIcon.icns</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2pO9JZj4vOuo2hoCvWhB+QS5HC4=
+			</data>
+			<key>hash2</key>
+			<data>
+			a4uJHwuGJnF0xSdCevK0PcJyU9TDoH/5ow1JA2hJfZw=
+			</data>
+		</dict>
+		<key>Resources/Assets.car</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			KLdbiOzuYUsJhYVBkcpyf6IsTbk=
+			</data>
+			<key>hash2</key>
+			<data>
+			7xXGy9VN7FKCCxUYbYu1PUjUgxy3FylhkAuGZRB4iIY=
+			</data>
+		</dict>
+		<key>Resources/Base.lproj/MainMenu.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XZRlBEgGHkznDCG+Jfbb95Yp6J4=
+			</data>
+			<key>hash2</key>
+			<data>
+			bqMwtcnu1aqZIaDaQ6kJvxyI3rgqs0QlJRxIqOWq2qk=
+			</data>
+		</dict>
+		<key>Resources/alert/NFV - Alerts.app/Contents/Frameworks/libswiftCore.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6fQTJ7/7bGWXUFJpdych5NMv/EU=
+			</data>
+			<key>hash2</key>
+			<data>
+			xkOuYCAGdS+1tBvSxjk8G/K10Lk+5koavsn/3bi41wo=
+			</data>
+		</dict>
+		<key>Resources/alert/NFV - Alerts.app/Contents/Frameworks/libswiftCoreFoundation.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			q+T7a1rjCkFDd49YxGFeCB+Uq2c=
+			</data>
+			<key>hash2</key>
+			<data>
+			UmlEnugK4O0zFiIJluD43owBkZbro9g3bLQE3JZQJ2M=
+			</data>
+		</dict>
+		<key>Resources/alert/NFV - Alerts.app/Contents/Frameworks/libswiftCoreGraphics.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			q09MVeRFrsjG4fxUlyvZ+a7J8s4=
+			</data>
+			<key>hash2</key>
+			<data>
+			tg+QC7yN8ua2A6NIL9f597+tgfYX3J56kpSM5YhOGss=
+			</data>
+		</dict>
+		<key>Resources/alert/NFV - Alerts.app/Contents/Frameworks/libswiftDarwin.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CV+pCGuzvhNSZLf/nvRQSr7Fzmg=
+			</data>
+			<key>hash2</key>
+			<data>
+			/T0YeAoGL3QGquHVIDMbswO+3HrMmQylF+gQ/ivTKlM=
+			</data>
+		</dict>
+		<key>Resources/alert/NFV - Alerts.app/Contents/Frameworks/libswiftDispatch.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0rBBtyCLbZhcDHNKMOHtUGmn2+w=
+			</data>
+			<key>hash2</key>
+			<data>
+			Pu03Ex9phMcmZOWuQsryDA/DrGUme2BQpePnc/jd18A=
+			</data>
+		</dict>
+		<key>Resources/alert/NFV - Alerts.app/Contents/Frameworks/libswiftFoundation.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			u0g5Ok4pxsKRdIQpquhg1tX52gE=
+			</data>
+			<key>hash2</key>
+			<data>
+			NY4lBL1woyae7w/95uvoSi+in04cx6+NsZBvFJnX96g=
+			</data>
+		</dict>
+		<key>Resources/alert/NFV - Alerts.app/Contents/Frameworks/libswiftIOKit.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hxxF/yWh8qhyGkXuzGD9XH+1yYk=
+			</data>
+			<key>hash2</key>
+			<data>
+			Pev3Q4Y0bVn9riTfmDHvptNysh8QD88DNypQpEeX5TI=
+			</data>
+		</dict>
+		<key>Resources/alert/NFV - Alerts.app/Contents/Frameworks/libswiftObjectiveC.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			g8U4s3n3dmReGkA9Tj15r2XXw7A=
+			</data>
+			<key>hash2</key>
+			<data>
+			z/qLus7i4MuJ6PKTcEsD2waBV1/VZp1bi89s39Kx/yc=
+			</data>
+		</dict>
+		<key>Resources/alert/NFV - Alerts.app/Contents/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CIPM9RerpERO1biotmBhg37mrV0=
+			</data>
+			<key>hash2</key>
+			<data>
+			YZ5zWRE7RJEUd1j5yw6TwFUOKoAy9if6WVvc7BfFea0=
+			</data>
+		</dict>
+		<key>Resources/alert/NFV - Alerts.app/Contents/MacOS/NFV - Alerts</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			WYOZWniIHy3xE2QlbcRTwyS/b14=
+			</data>
+			<key>hash2</key>
+			<data>
+			T7R9T23tMpUjkYe48QyRbnxKLDXYR2xaJUTG5jlKZws=
+			</data>
+		</dict>
+		<key>Resources/alert/NFV - Alerts.app/Contents/PkgInfo</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			n57qDP4tZfLD1rCS43W0B4LQjzE=
+			</data>
+			<key>hash2</key>
+			<data>
+			glAhkclISwTWhTdPmHmgBmBpxJuKyuegSwHTjQfo7KA=
+			</data>
+		</dict>
+		<key>Resources/alert/NFV - Alerts.app/Contents/Resources/AppIcon.icns</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2pO9JZj4vOuo2hoCvWhB+QS5HC4=
+			</data>
+			<key>hash2</key>
+			<data>
+			a4uJHwuGJnF0xSdCevK0PcJyU9TDoH/5ow1JA2hJfZw=
+			</data>
+		</dict>
+		<key>Resources/alert/NFV - Alerts.app/Contents/Resources/Assets.car</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5qUV4NAf4xQAl0+PpVTEfAOr8Wo=
+			</data>
+			<key>hash2</key>
+			<data>
+			qtqRLaCQsG8PPGoGKcDZLcN8ew8OLT5XILO56tgVccU=
+			</data>
+		</dict>
+		<key>Resources/alert/NFV - Alerts.app/Contents/Resources/Base.lproj/MainMenu.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VhV0i8GJt4sHI5mcF4vY5Rb1K/I=
+			</data>
+			<key>hash2</key>
+			<data>
+			SxCM9kamPyTMUOD/2SMXdm99iBMkXV1Sv6PGX4TkOzQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/alert/NFV - Alerts.app/Contents/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MqzTL2Qh/EP4rByYYeEVKrZH/8c=
+			</data>
+			<key>hash2</key>
+			<data>
+			ZkBkXLIADqIH6Ufewq8Sx2863T//40skDXO27O9tabw=
+			</data>
+		</dict>
+		<key>Resources/banner/NFV - Notifications.app/Contents/Frameworks/libswiftCore.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tHU1dBodkOFmf3P/YrD3hAwubhI=
+			</data>
+			<key>hash2</key>
+			<data>
+			GE0toWq9feZ20zPPrYJwqbUcP5T3i68q+Rsa2XgGJIU=
+			</data>
+		</dict>
+		<key>Resources/banner/NFV - Notifications.app/Contents/Frameworks/libswiftCoreFoundation.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UdVKh+G6Dq1SMBcHQDfsMwLZY9I=
+			</data>
+			<key>hash2</key>
+			<data>
+			RVXFYB502YuXI88DmCsebOFtADFYA429bLmK0es5q0E=
+			</data>
+		</dict>
+		<key>Resources/banner/NFV - Notifications.app/Contents/Frameworks/libswiftCoreGraphics.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SKt7o5BZB85zh7FWMUG+fqwxSJw=
+			</data>
+			<key>hash2</key>
+			<data>
+			iht2bPejEtUZQVr7LJo+XVMBJshHAUqMP+BGcJy67Iw=
+			</data>
+		</dict>
+		<key>Resources/banner/NFV - Notifications.app/Contents/Frameworks/libswiftDarwin.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RFV5/2Rr/eu5N1O9Fey5DO5jtFU=
+			</data>
+			<key>hash2</key>
+			<data>
+			8MTMgPZKahREIYClc6JtVkvT3EBQXOw6x9wLZ5scoto=
+			</data>
+		</dict>
+		<key>Resources/banner/NFV - Notifications.app/Contents/Frameworks/libswiftDispatch.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GFergHBA6xxOIDwg4gli2Lr5v84=
+			</data>
+			<key>hash2</key>
+			<data>
+			j+iS4kESxTL2FLMLGkgtgnfTIU049O21mjQ4z1/kwro=
+			</data>
+		</dict>
+		<key>Resources/banner/NFV - Notifications.app/Contents/Frameworks/libswiftFoundation.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vdwXv4Kho8hGJ0nal1+WL8rHxG0=
+			</data>
+			<key>hash2</key>
+			<data>
+			jvmq1Mz8W4kxc+Nk7meg2CNOcQTGdQt2tF7WZcQ1UYc=
+			</data>
+		</dict>
+		<key>Resources/banner/NFV - Notifications.app/Contents/Frameworks/libswiftIOKit.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QEnouCf0ZN2Z+ASB3AcXTEJwnpk=
+			</data>
+			<key>hash2</key>
+			<data>
+			ZT47tlWwz0mewH04odL/gMjFnR4kBW9HNYkMxmjXfQc=
+			</data>
+		</dict>
+		<key>Resources/banner/NFV - Notifications.app/Contents/Frameworks/libswiftObjectiveC.dylib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			j0rsgwcESK2i+Tb/nc2ojvuv7Bw=
+			</data>
+			<key>hash2</key>
+			<data>
+			FU/n5amG0RYYiGqJ+jgwM687JM+BQ2BZwDOYg2YSb0A=
+			</data>
+		</dict>
+		<key>Resources/banner/NFV - Notifications.app/Contents/Info.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dk+KSUWOLOtCR67zMWLEV920BH0=
+			</data>
+			<key>hash2</key>
+			<data>
+			oQsjOv5UQRrYq0cOgnGXDaVrDdu0AgtALTlN+B/k+Yg=
+			</data>
+		</dict>
+		<key>Resources/banner/NFV - Notifications.app/Contents/MacOS/NFV - Notifications</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/VrE+9dkW9dCJmMQLgQe29CX3RE=
+			</data>
+			<key>hash2</key>
+			<data>
+			HRkX3KPnb7CalzQ+XtM4yh7KXNcIO+VKX0Fr9eVJdvc=
+			</data>
+		</dict>
+		<key>Resources/banner/NFV - Notifications.app/Contents/PkgInfo</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			n57qDP4tZfLD1rCS43W0B4LQjzE=
+			</data>
+			<key>hash2</key>
+			<data>
+			glAhkclISwTWhTdPmHmgBmBpxJuKyuegSwHTjQfo7KA=
+			</data>
+		</dict>
+		<key>Resources/banner/NFV - Notifications.app/Contents/Resources/AppIcon.icns</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2pO9JZj4vOuo2hoCvWhB+QS5HC4=
+			</data>
+			<key>hash2</key>
+			<data>
+			a4uJHwuGJnF0xSdCevK0PcJyU9TDoH/5ow1JA2hJfZw=
+			</data>
+		</dict>
+		<key>Resources/banner/NFV - Notifications.app/Contents/Resources/Assets.car</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TkOhHJPPqJTgI8d2H6fqTMiKw+U=
+			</data>
+			<key>hash2</key>
+			<data>
+			SvgpJ6zJa+qnNd2FqcEQBQdM1JlAJFq8VPGMi950bkc=
+			</data>
+		</dict>
+		<key>Resources/banner/NFV - Notifications.app/Contents/Resources/Base.lproj/MainMenu.nib</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XqKmytOI9S8K41LJbdfQEm0PTzU=
+			</data>
+			<key>hash2</key>
+			<data>
+			aEeLer4+dzh+Yfdx1pRs4Wl3bypdwo+3z3L4+x6HRKc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Resources/banner/NFV - Notifications.app/Contents/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Lyw7i31kBy6Yk/+9p7Ou8S+C5Ks=
+			</data>
+			<key>hash2</key>
+			<data>
+			ROco+AvthSwapo13cjGcuS3g/jZGcbxR+h++uCEFLxg=
+			</data>
+		</dict>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>^Resources/</key>
+		<true/>
+		<key>^Resources/.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^Resources/.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^Resources/Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
+		</dict>
+		<key>^version.plist$</key>
+		<true/>
+	</dict>
+	<key>rules2</key>
+	<dict>
+		<key>.*\.dSYM($|/)</key>
+		<dict>
+			<key>weight</key>
+			<real>11</real>
+		</dict>
+		<key>^(.*/)?\.DS_Store$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>2000</real>
+		</dict>
+		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>^.*</key>
+		<true/>
+		<key>^Info\.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^PkgInfo$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^Resources/</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^Resources/.*\.lproj/</key>
+		<dict>
+			<key>optional</key>
+			<true/>
+			<key>weight</key>
+			<real>1000</real>
+		</dict>
+		<key>^Resources/.*\.lproj/locversion.plist$</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>1100</real>
+		</dict>
+		<key>^Resources/Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
+		</dict>
+		<key>^[^/]+$</key>
+		<dict>
+			<key>nested</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>^embedded\.provisionprofile$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+		<key>^version\.plist$</key>
+		<dict>
+			<key>weight</key>
+			<real>20</real>
+		</dict>
+	</dict>
+</dict>
+</plist>
